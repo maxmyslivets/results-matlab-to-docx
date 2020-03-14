@@ -4,7 +4,6 @@
 import scipy.io as sio
 from docxtpl import DocxTemplate, Listing
 import os
-import time
 
 # Вычисление начальной дирректории
 main_path = os.path.dirname(os.path.abspath(__file__))
