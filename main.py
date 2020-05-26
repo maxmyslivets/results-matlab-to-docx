@@ -6,6 +6,8 @@ from docxtpl import DocxTemplate, Listing
 import os
 
 # Вычисление начальной дирректории
+
+print('Запускать из папки!')
 main_path = os.path.dirname(os.path.abspath(__file__))
 
 student_name = input('Ф.И.О. студента: ')

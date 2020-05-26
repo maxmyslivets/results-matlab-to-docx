@@ -1,1 +1,0 @@
-matlab.exe -nodesktop -minimize -r run('c:\Users\mikky\Documents\GitHub\results-matlab-to-docx\lab3/MatlabFunc.m');quit
